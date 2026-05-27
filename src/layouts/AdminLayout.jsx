@@ -123,7 +123,7 @@ export default function AdminLayout() {
           {sidebarOpen && (
             <Link to="/" className="flex items-center gap-2 text-lg font-bold">
               <img
-                src="/logo.jpg"
+                src="/images/logo.jpg"
                 alt="AGRANET"
                 className="h-8 rounded bg-white px-1 py-0.5"
               />
